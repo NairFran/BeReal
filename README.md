@@ -43,7 +43,7 @@ GIF created with Flixier and Giphy.com
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+There was not one main challenge in the creation of this project. I did run into multiple errors when following the lab instructions which I was able to fix only after spending too much time reviewing every line of code.
 
 ## License
 
